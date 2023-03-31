@@ -117,15 +117,15 @@ python gui.py
 
 # Remaining task
 
-- [x] Limit messages bytes sized
-- [ ] Add more details on README.md
-  - [ ] how to setup database
-  - [ ] how to configure database
-- [x] At Server, one must be able to query data of each sensor separately from database. [Stang create GUI program]
-- [ ] Increase Waiting time to 3 minutes when deliver project
+-   [x] Limit messages bytes sized
+-   [x] Add more details on README.md
+    -   [x] how to setup database
+    -   [x] how to configure database
+-   [x] At Server, one must be able to query data of each sensor separately from database. [Stang create GUI program]
+-   [x] Increase Waiting time to 3 minutes when deliver project
 
 # Description
 
-- Publisher is pub.py
-- Broker is client
-- Subscriber or Server is sub.py
+-   Publisher is pub.py
+-   Broker is client
+-   Subscriber or Server is sub.py
